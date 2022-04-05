@@ -1,0 +1,25 @@
+﻿#EXTM3U
+#EXTINF:-1 tvg-id="88Stereo.cr" status="online",Canal 1
+http://k3.usastreams.com/CableLatino/88stereo/playlist.m3u8
+#EXTINF:-1 tvg-id="Canal2.cr" status="error",Canal 2
+https://d30zjikdv9ntds.cloudfront.net/repretel/canal2/smil:live.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="VMLatino.cr" status="online",Canal 3 
+https://59ef525c24caa.streamlock.net/vmtv/vmlatino/playlist.m3u8
+#EXTINF:-1 tvg-id="Canal4.cr" status="online",Canal 4
+https://d30zjikdv9ntds.cloudfront.net/repretel/canal4/smil:live.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Teletica7.cr" status="online",Canal 5
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x29e3wg
+#EXTINF:-1 tvg-id="Canal6.cr" status="online",Canal 6 
+https://d30zjikdv9ntds.cloudfront.net/repretel/canal6/smil:live.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Teletica7.cr" status="online",Canal 7
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x29e3wg
+#EXTINF:-1 tvg-id="Canal8.cr" status="online",Canal 8 
+http://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8
+#EXTINF:-1 tvg-id="ZonaFilmsTV.cr" status="online",Canal 9 
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/zonafilmstv
+#EXTINF:-1 tvg-id="" status="online",Canal 10
+https://s2.cwebtv.net:4433/telefides/telefides/playlist.m3u8
+#EXTINF:-1 tvg-id="Canal11.cr" status="online",Canal 11
+https://d30zjikdv9ntds.cloudfront.net/repretel/canal11/smil:live.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" status="online",Canal 12
+https://tiquiciatv.duckdns.org/hls/livestv.m3u8
