@@ -32,12 +32,6 @@ http://clubtv.link/oct2710/key1022/distro.php?c=chiquilines&f=.m3u8
 http://clubtv.link/oct2710/key1022/distro.php?c=glewedtv-spanish&f=.m3u8
 
 
-
-9.67:8000/playlist/tvg-logo/a0q8.png" group-title="TV PREMIUM", AMC HD
-http://clubtv.link/oct2710/key1022/lista1.php?c=a0q8&f=.m3u8
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0pp.png" group-title="TV PREMIUM", AXN
-
-
 #EXTINF:-1 group-title="TV PREMIUM", 24 Horas
 http://clubtv.link/oct2710/key1022/lista1.php?c=a08l&f=.m3u8
 #EXTINF:-1 group-title="TV PREMIUM", AE Mundo
